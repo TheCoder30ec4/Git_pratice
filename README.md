@@ -1,3 +1,5 @@
 # Git and GitHub Pratice
 
-# GitHut is Great
+# GitHub is Great
+
+##  This repo is for this git branch pratice
